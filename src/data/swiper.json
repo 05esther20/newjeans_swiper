@@ -1,0 +1,27 @@
+[
+    {
+        "img" : "./pic/nj.jpg",
+        "textnm" : "NewJeans"
+    },
+    {
+        "img" : "./pic/minji.jpg",
+        "textnm" : "Minji"
+    },
+    {
+        "img" : "./pic/hani.jpg",
+        "textnm" : "Hani"
+    },
+    {
+        "img" : "./pic/dani.jpg",
+        "textnm" : "Danielle"
+    },
+    {
+        "img" : "./pic/haerin.jpg",
+        "textnm" : "Haerin"
+    },
+    {
+        "img" : "./pic/hyein.jpg",
+        "textnm" : "Hyein"
+    }
+    
+]
